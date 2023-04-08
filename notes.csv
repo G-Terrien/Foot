@@ -1,0 +1,20 @@
+Joueurs,Attaque,Défense,Tenue de balle,Régularité,Endurance,Moyenne,Poste,Présent
+Aurélien,"4,00","3,67","3,83","4,17","4,83","4,10",Defender,TRUE
+Maxime,"6,20","6,20","7,00","6,00","5,60","6,20",Midfielder,TRUE
+Yoyo,"4,83","7,67","6,00","6,17","5,67","6,07",Defender,TRUE
+Victor,"5,83","7,83","7,17","6,83","6,17","6,77",Defender,TRUE
+Pin Pon,"5,50","6,50","6,00","6,00","6,50","6,10",Midfielder,TRUE
+Gael,"5,50","6,17","5,83","6,67","6,50","6,13",Midfielder,TRUE
+Flow,"5,40","8,60","7,20","7,00","6,60","6,96",Defender,TRUE
+Sylvio,"5,33","4,33","3,17","5,00","6,67","4,90",Forward,TRUE
+Gigi,"7,20","5,40","5,20","5,80","6,80","6,08",Forward,TRUE
+Younès,"8,17","4,67","7,17","6,17","6,83","6,60",Forward,TRUE
+Stefen,"4,50","7,50","5,50","7,00","7,00","6,30",Midfielder,FALSE
+Dudu,"5,67","7,33","5,33","6,83","7,50","6,53",Midfielder,FALSE
+François,"7,17","7,00","6,83","7,00","7,50","7,10",Midfielder,FALSE
+Jean-gui,"8,00","7,00","8,40","7,20","7,60","7,64",Midfielder,FALSE
+Rémy,"5,80","8,80","6,80","7,40","7,60","7,28",Defender,FALSE
+Stan,"6,17","8,83","8,00","7,17","7,67","7,57",Defender,FALSE
+Mehdi,"8,00","5,40","6,80","6,40","8,00","6,92",Forward,FALSE
+Dadoo,"5,80","6,80","7,40","6,20","8,40","6,92",Midfielder,FALSE
+,,,,,,,Forward,FALSE
